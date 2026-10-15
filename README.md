@@ -3,8 +3,6 @@
 
 **Quant researcher & agent engineer.** HUST undergraduate building long-horizon research harnesses — persistent execution, environment feedback, auditable evaluation — and pointing them at markets and knowledge.
 
-> 我是 Aidan H., 华中科技大学光电信息科学与工程本科在读。做量化研究（WorldQuant BRAIN）、AI Agent、Robotics。希望做有用的事情，或者有意思的事情。
-
 ## Now
 
 - **Agent engineering** — building a persistent research agent: typed tool loops, MCP, SQLite-backed state, resumable long-running jobs (browser-close-proof).
